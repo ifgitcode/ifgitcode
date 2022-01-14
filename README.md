@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ifgitcode
-- 👀 I’m interested in NEW THINGS.
+- 👋 Hi, I’m @ifgitcode. 
+- 👀 I’m interested in NEW THINGS. It's my superpower.
 - 🌱 I’m currently learning AUTOMATE THE BORING STUFF WITH PYTHON.
-- 💞️ I’m looking to collaborate on FANCY PEOPLE.
-- 📫 How to reach me ...
+
 
 <!---
 ifgitcode/ifgitcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
